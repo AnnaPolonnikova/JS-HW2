@@ -22,9 +22,17 @@ document.write( age );
 
  // Задание 4
 
- let a = -3;
- if (a>0){
+ let i = -3;
+ if (i>0){
     console.log('верно');
  } else{
     console.log ('неверно');
  }
+ // задание 5
+
+ let a = 10;
+     b = 2;
+console.log (a+b);
+console.log (a-b);
+console.log (a*b)
+console.log (a/b)
