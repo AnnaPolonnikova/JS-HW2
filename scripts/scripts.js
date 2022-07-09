@@ -16,3 +16,15 @@ document.write( age );
 
  let company = prompt('Ваше место работы');
  document.write(company );
+ //Задание 2 не знаю как
+
+ // Задание 3 не поняла как
+
+ // Задание 4
+
+ let a = -3;
+ if (a>0){
+    console.log('верно');
+ } else{
+    console.log ('неверно');
+ }
