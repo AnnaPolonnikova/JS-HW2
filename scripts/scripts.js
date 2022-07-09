@@ -34,5 +34,12 @@ document.write( age );
      b = 2;
 console.log (a+b);
 console.log (a-b);
-console.log (a*b)
-console.log (a/b)
+console.log (a*b);
+console.log (a/b);
+
+// Задание 6
+if (a > 2 && a < 11 || b>=6 && b<14){
+    console.log ('верно');
+} else {
+    console.log('неверно');
+}
