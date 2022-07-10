@@ -1,6 +1,6 @@
 //Задание 1 не поняла как вывести (Меня зовут...) и почему выводится всё в 1 строку?
 let FirstName = prompt('Ваше имя?');
-document.write( FirstName);
+ document.write( FirstName);
 
  let age = prompt('Ваш возраст?');
 document.write( age );
